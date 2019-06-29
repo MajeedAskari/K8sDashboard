@@ -22,6 +22,4 @@ private static final String welcomemsg = "Welcome Mr. %s!";
         return new Welcome(String.format(welcomemsg, name));
 
     }
-    
-
 }

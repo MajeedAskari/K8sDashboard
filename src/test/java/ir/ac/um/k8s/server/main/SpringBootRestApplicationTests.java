@@ -1,4 +1,4 @@
-package com.majeed.server.main;
+package ir.ac.um.k8s.server.main;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
